@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hara Ltd. Company",
+    "description": "",
+    "home_page_url": "https://myhara.com",
+    "feed_url": "https://myhara.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Loan Nguyen"
+    },
+    "items": [
+    ]
+}
