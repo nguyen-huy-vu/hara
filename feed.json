@@ -18,9 +18,10 @@
                 "name": "Loan Nguyen"
             },
             "tags": [
+                   "bientan"
             ],
             "date_published": "2026-05-18T19:18:30+00:00",
-            "date_modified": "2026-05-18T19:18:30+00:00"
+            "date_modified": "2026-05-18T20:12:46+00:00"
         },
         {
             "id": "https://nguyen-huy-vu.github.io/hara/thiet-bi-dem-3/",
@@ -31,9 +32,10 @@
                 "name": "Loan Nguyen"
             },
             "tags": [
+                   "bientan"
             ],
             "date_published": "2026-05-18T19:16:19+00:00",
-            "date_modified": "2026-05-18T19:16:53+00:00"
+            "date_modified": "2026-05-18T20:12:56+00:00"
         },
         {
             "id": "https://nguyen-huy-vu.github.io/hara/thiet-bi-dem-2/",
@@ -44,9 +46,10 @@
                 "name": "Loan Nguyen"
             },
             "tags": [
+                   "bientan"
             ],
             "date_published": "2026-05-18T18:43:42+00:00",
-            "date_modified": "2026-05-18T19:05:37+00:00"
+            "date_modified": "2026-05-18T20:13:03+00:00"
         }
     ]
 }
