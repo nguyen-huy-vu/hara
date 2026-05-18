@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Hara Ltd. Company</title>
+    <link href="https://nguyen-huy-vu.github.io/hara/feed.xml" rel="self" />
+    <link href="https://nguyen-huy-vu.github.io/hara" />
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <author>
+        <name>Loan Nguyen</name>
+    </author>
+    <id>https://nguyen-huy-vu.github.io/hara</id>
+
+</feed>
