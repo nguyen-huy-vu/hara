@@ -1,12 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Hara Ltd. Company</title>
+    <title>HARA CO., LTD</title>
     <link href="https://nguyen-huy-vu.github.io/hara/feed.xml" rel="self" />
     <link href="https://nguyen-huy-vu.github.io/hara" />
-    <updated>1970-01-01T00:00:00+00:00</updated>
+    <updated>2026-05-18T19:18:30+00:00</updated>
     <author>
         <name>Loan Nguyen</name>
     </author>
     <id>https://nguyen-huy-vu.github.io/hara</id>
 
+    <entry>
+        <title>BIẾN TẦN PANASONIC VF0 Series</title>
+        <author>
+            <name>Loan Nguyen</name>
+        </author>
+        <link href="https://nguyen-huy-vu.github.io/hara/bien-tan-panasonic-vf0-series/"/>
+        <id>https://nguyen-huy-vu.github.io/hara/bien-tan-panasonic-vf0-series/</id>
+        <media:content url="https://nguyen-huy-vu.github.io/hara/media/posts/12/bientanvf0.PNG" medium="image" />
+
+        <updated>2026-05-18T19:18:30+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>BIẾN TẦN ATV71 Series SCHNEIDER</title>
+        <author>
+            <name>Loan Nguyen</name>
+        </author>
+        <link href="https://nguyen-huy-vu.github.io/hara/thiet-bi-dem-3/"/>
+        <id>https://nguyen-huy-vu.github.io/hara/thiet-bi-dem-3/</id>
+        <media:content url="https://nguyen-huy-vu.github.io/hara/media/posts/11/bientanatv71.PNG" medium="image" />
+
+        <updated>2026-05-18T19:16:19+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>BIẾN TẦN 3G3JX SERIES OMRON</title>
+        <author>
+            <name>Loan Nguyen</name>
+        </author>
+        <link href="https://nguyen-huy-vu.github.io/hara/thiet-bi-dem-2/"/>
+        <id>https://nguyen-huy-vu.github.io/hara/thiet-bi-dem-2/</id>
+        <media:content url="https://nguyen-huy-vu.github.io/hara/media/posts/8/bientan3g3.PNG" medium="image" />
+
+        <updated>2026-05-18T18:43:42+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>

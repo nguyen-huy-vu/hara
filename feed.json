@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hara Ltd. Company",
+    "title": "HARA CO., LTD",
     "description": "",
     "home_page_url": "https://nguyen-huy-vu.github.io/hara",
     "feed_url": "https://nguyen-huy-vu.github.io/hara/feed.json",
@@ -9,5 +9,44 @@
         "name": "Loan Nguyen"
     },
     "items": [
+        {
+            "id": "https://nguyen-huy-vu.github.io/hara/bien-tan-panasonic-vf0-series/",
+            "url": "https://nguyen-huy-vu.github.io/hara/bien-tan-panasonic-vf0-series/",
+            "title": "BIẾN TẦN PANASONIC VF0 Series",
+            "image": "https://nguyen-huy-vu.github.io/hara/media/posts/12/bientanvf0.PNG",
+            "author": {
+                "name": "Loan Nguyen"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-18T19:18:30+00:00",
+            "date_modified": "2026-05-18T19:18:30+00:00"
+        },
+        {
+            "id": "https://nguyen-huy-vu.github.io/hara/thiet-bi-dem-3/",
+            "url": "https://nguyen-huy-vu.github.io/hara/thiet-bi-dem-3/",
+            "title": "BIẾN TẦN ATV71 Series SCHNEIDER",
+            "image": "https://nguyen-huy-vu.github.io/hara/media/posts/11/bientanatv71.PNG",
+            "author": {
+                "name": "Loan Nguyen"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-18T19:16:19+00:00",
+            "date_modified": "2026-05-18T19:16:53+00:00"
+        },
+        {
+            "id": "https://nguyen-huy-vu.github.io/hara/thiet-bi-dem-2/",
+            "url": "https://nguyen-huy-vu.github.io/hara/thiet-bi-dem-2/",
+            "title": "BIẾN TẦN 3G3JX SERIES OMRON",
+            "image": "https://nguyen-huy-vu.github.io/hara/media/posts/8/bientan3g3.PNG",
+            "author": {
+                "name": "Loan Nguyen"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-18T18:43:42+00:00",
+            "date_modified": "2026-05-18T19:05:37+00:00"
+        }
     ]
 }
