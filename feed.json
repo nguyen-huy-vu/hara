@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://nguyen-huy-vu.github.io/hara/xy-lanh-kep-dien-sata-global-mg2m/",
+            "url": "https://nguyen-huy-vu.github.io/hara/xy-lanh-kep-dien-sata-global-mg2m/",
+            "title": "Xy lanh kẹp điện SATA GLOBAL MG2M",
+            "image": "https://nguyen-huy-vu.github.io/hara/media/posts/15/xylanhmg2m.PNG",
+            "author": {
+                "name": "Loan Nguyen"
+            },
+            "tags": [
+                   "Xy Lanh"
+            ],
+            "date_published": "2026-05-19T09:32:29+00:00",
+            "date_modified": "2026-05-19T09:32:29+00:00"
+        },
+        {
+            "id": "https://nguyen-huy-vu.github.io/hara/xy-lanh-dien-co-truc-day-sata-global-sc80z/",
+            "url": "https://nguyen-huy-vu.github.io/hara/xy-lanh-dien-co-truc-day-sata-global-sc80z/",
+            "title": "Xy lanh điện có trục đẩy SATA GLOBAL SC80Z",
+            "image": "https://nguyen-huy-vu.github.io/hara/media/posts/14/xylanhsc80z.PNG",
+            "author": {
+                "name": "Loan Nguyen"
+            },
+            "tags": [
+                   "Xy Lanh"
+            ],
+            "date_published": "2026-05-19T09:31:17+00:00",
+            "date_modified": "2026-05-19T09:32:37+00:00"
+        },
+        {
             "id": "https://nguyen-huy-vu.github.io/hara/bien-tan-panasonic-vf0-series/",
             "url": "https://nguyen-huy-vu.github.io/hara/bien-tan-panasonic-vf0-series/",
             "title": "BIẾN TẦN PANASONIC VF0 Series",

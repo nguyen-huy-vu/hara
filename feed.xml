@@ -3,12 +3,40 @@
     <title>HARA CO., LTD</title>
     <link href="https://nguyen-huy-vu.github.io/hara/feed.xml" rel="self" />
     <link href="https://nguyen-huy-vu.github.io/hara" />
-    <updated>2026-05-18T20:13:03+00:00</updated>
+    <updated>2026-05-19T09:32:37+00:00</updated>
     <author>
         <name>Loan Nguyen</name>
     </author>
     <id>https://nguyen-huy-vu.github.io/hara</id>
 
+    <entry>
+        <title>Xy lanh kẹp điện SATA GLOBAL MG2M</title>
+        <author>
+            <name>Loan Nguyen</name>
+        </author>
+        <link href="https://nguyen-huy-vu.github.io/hara/xy-lanh-kep-dien-sata-global-mg2m/"/>
+        <id>https://nguyen-huy-vu.github.io/hara/xy-lanh-kep-dien-sata-global-mg2m/</id>
+        <media:content url="https://nguyen-huy-vu.github.io/hara/media/posts/15/xylanhmg2m.PNG" medium="image" />
+            <category term="Xy Lanh"/>
+
+        <updated>2026-05-19T09:32:29+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Xy lanh điện có trục đẩy SATA GLOBAL SC80Z</title>
+        <author>
+            <name>Loan Nguyen</name>
+        </author>
+        <link href="https://nguyen-huy-vu.github.io/hara/xy-lanh-dien-co-truc-day-sata-global-sc80z/"/>
+        <id>https://nguyen-huy-vu.github.io/hara/xy-lanh-dien-co-truc-day-sata-global-sc80z/</id>
+        <media:content url="https://nguyen-huy-vu.github.io/hara/media/posts/14/xylanhsc80z.PNG" medium="image" />
+            <category term="Xy Lanh"/>
+
+        <updated>2026-05-19T09:31:17+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>BIẾN TẦN PANASONIC VF0 Series</title>
         <author>
